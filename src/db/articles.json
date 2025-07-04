@@ -1,0 +1,59 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "slug": "uj-technologiai-atbontasok-2024",
+      "title": "Új technológiai áttörések 2024-ben",
+      "excerpt": "Fedezze fel a legfrissebb technológiai innovációkat, amelyek 2024-ben megváltoztatják az iparágat.",
+      "content": "A 2024-es év számos izgalmas technológiai fejleményt hozott. Az AI fejlődése, a kvantumszámítógépek fejlődése és az új megújuló energiaforrások mind hozzájárulnak a jövő alakításához. Ezek a technológiák nem csak a vállalati szférában, hanem a mindennapi életünkben is jelentős változásokat okoznak.",
+      "publishedAt": "2024-01-15T10:00:00Z",
+      "author": "Kovács Anna",
+      "category": "technológia",
+      "tags": ["AI", "kvantumszámítógép", "megújuló energia"]
+    },
+    {
+      "id": "2",
+      "slug": "fenntarthato-vallalkozasok-sikertortenetei",
+      "title": "Fenntartható vállalkozások sikertörténetei",
+      "excerpt": "Ismerje meg azokat a magyar vállalkozásokat, amelyek fenntarthatósági megoldásaikkal példát mutatnak.",
+      "content": "A fenntarthatóság egyre fontosabb tényező a modern üzleti világban. Magyarországon is számos vállalkozás vezet be innovatív, környezetbarát megoldásokat. Ezek a cégek nem csak a profitot, hanem a társadalmi felelősséget is szem előtt tartják, bizonyítva, hogy a siker és a fenntarthatóság nem zárja ki egymást.",
+      "publishedAt": "2024-01-20T14:30:00Z",
+      "author": "Nagy Péter",
+      "category": "üzlet",
+      "tags": ["fenntarthatóság", "vállalkozás", "környezetvédelem"]
+    },
+    {
+      "id": "3",
+      "slug": "tavalyi-gazdasagi-eredmenyek-elemzese",
+      "title": "Tavalyi gazdasági eredmények elemzése",
+      "excerpt": "Részletes elemzés a 2023-as magyar gazdasági teljesítményről és a 2024-es kilátásokról.",
+      "content": "A 2023-as év gazdasági eredményei vegyes képet mutatnak. Bár a GDP növekedés elmaradt a várakozásoktól, a munkanélküliség csökkenése és az export növekedése pozitív jelek. A 2024-es évre vonatkozó előrejelzések szerint a gazdaság lassú, de stabil növekedésre számíthat, főként a turizmus és a technológiai szektor fejlődésének köszönhetően.",
+      "publishedAt": "2024-01-25T09:15:00Z",
+      "author": "Szabó Eszter",
+      "category": "gazdaság",
+      "tags": ["GDP", "munkanélküliség", "export", "előrejelzés"]
+    },
+    {
+      "id": "4",
+      "slug": "digitalis-atallas-oktatasi-rendszerben",
+      "title": "Digitális átállás az oktatási rendszerben",
+      "excerpt": "Hogyan változik meg a magyar oktatási rendszer a digitális technológiák bevezetésével.",
+      "content": "A digitális átállás az oktatási rendszerben egyre gyorsabb ütemben halad. Az online tanulási platformok, a virtuális valóság alkalmazása és a személyre szabott tanulási módszerek mind hozzájárulnak a modern oktatás kialakításához. A tanárok és diákok egyaránt pozitív visszajelzéseket adnak az új technológiákról, bár a teljes integráció még folyamatban van.",
+      "publishedAt": "2024-02-01T11:45:00Z",
+      "author": "Kiss Márta",
+      "category": "oktatás",
+      "tags": ["digitális oktatás", "online tanulás", "virtuális valóság"]
+    },
+    {
+      "id": "5",
+      "slug": "egeszsegugyi-innovaciok-magyarorszagon",
+      "title": "Egészségügyi innovációk Magyarországon",
+      "excerpt": "A legújabb orvosi technológiák és kezelési módszerek bemutatása magyar kutatások alapján.",
+      "content": "Magyarország egészségügyi szektora is jelentős innovációkat produkál. A telemedicina fejlődése, a precíziós orvoslás alkalmazása és az új diagnosztikai módszerek mind hozzájárulnak a betegellátás minőségének javításához. A magyar kutatók nemzetközi szinten is elismerést nyertek munkájukért, különösen a rákdiagnosztika és a regeneratív orvoslás területén.",
+      "publishedAt": "2024-02-05T16:20:00Z",
+      "author": "Tóth János",
+      "category": "egészség",
+      "tags": ["telemedicina", "precíziós orvoslás", "rákdiagnosztika"]
+    }
+  ]
+}
